@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png"><?xml version="1.0"?>
 <constructions>
     <construction id="water_source" image="carrier">
         <cost money="10" infl="0"/>
