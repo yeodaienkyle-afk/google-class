@@ -981,7 +981,7 @@ A scribe with some documents should be able to take care of this issue.</desc>
         <desc2>Requires:</desc2>
     </gui>
     <gui id="drawer_name_worker">
-        <header>Quarters</header>
+        <header><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">Quarters</header>
     </gui>
     <gui id="drawer_name_component">
         <header>Warehouse</header>
