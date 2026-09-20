@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[
 <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <!--HTML file auto generated using EmulatorJS codehelper-->
         <style>
             body, html {
@@ -22,7 +22,7 @@
             EJS_gameName = "Pokemon - Leaf Green Version";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_gameUrl = "https://cdn.jsdelivr.net/gh/RISHAB-CREATOR/RgGames@daa5126bdac6209bba97d601461215af594309d4/pokemon/leafgreen/leafgreen.gba";
         </script>
         <script src="https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/loader.js"></script>
