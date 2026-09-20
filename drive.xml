@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[ <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
 	<meta charset="utf-8">
 	<title>Google Drive</title>
 </head>
