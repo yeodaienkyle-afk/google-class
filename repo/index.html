@@ -2,11 +2,11 @@
 <html lang="en-us">
 
 <head>
-  	<base href="https://cdn.jsdelivr.net/gh/genizy/google-class@main/repo/">
+  	<base href="https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/repo/">
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | R.E.P.O</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
     <link rel="stylesheet" href="TemplateData/style.css">
     <script>
         function mergeFiles(fileParts) {
@@ -63,16 +63,16 @@
         function unityShowBanner(msg, type) {
             // no need for errors
         }
-        let wasm = getParts("https://cdn.jsdelivr.net/gh/genizy/google-class@main/repo/Build/NewestBuild.wasm.gz", 1, 3);
-        let data = getParts("https://cdn.jsdelivr.net/gh/genizy/google-class@main/repo/Build/NewestBuild.data.gz", 1, 16);
+        let wasm = getParts("https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/repo/Build/NewestBuild.wasm.gz", 1, 3);
+        let data = getParts("https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/repo/Build/NewestBuild.data.gz", 1, 16);
         Promise.all([
                 mergeFiles(wasm),
                 mergeFiles(data)
             ]).then(([wasmUrl, dataUrl]) => {
-                    var loaderUrl = "https://cdn.jsdelivr.net/gh/genizy/google-class@main/repo/Build/NewestBuild.loader.js";
+                    var loaderUrl = "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/repo/Build/NewestBuild.loader.js";
                     var config = {
                         dataUrl: dataUrl,
-                        frameworkUrl: "https://cdn.jsdelivr.net/gh/genizy/google-class@main/repo/Build/NewestBuild.framework.js.gz",
+                        frameworkUrl: "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/repo/Build/NewestBuild.framework.js.gz",
                         codeUrl: wasmUrl,
                         streamingAssetsUrl: "StreamingAssets",
                         companyName: "Stupid Game",
