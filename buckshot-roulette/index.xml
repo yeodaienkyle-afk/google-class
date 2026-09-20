@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[<!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
 		<title>Buckshot Roulette</title>
 		<base href="https://rawcdn.githack.com/genizy/google-class/de050c05ae58994f88c0669e5b09527c3556c180/buckshot-roulette/">
 		<style>
