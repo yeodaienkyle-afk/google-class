@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[
 <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <!--HTML file auto generated using EmulatorJS codehelper-->
         <style>
             body, html {
@@ -22,7 +22,7 @@
             EJS_gameName = "Pokemon - Ultimate Fusion Version";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_gameUrl = "https://cdn.jsdelivr.net/gh/mastercodewolf/cdn-gba@2571635510e087062df43e1e852f96fb3765e8a8/Pokemon%20Ultimate%20Fusion.zip";
         </script>
         <script src="https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/loader.js"></script>
