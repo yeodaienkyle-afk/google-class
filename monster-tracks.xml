@@ -4,10 +4,10 @@
 <![CDATA[ <!DOCTYPE html>
 <html lang="en-us">
 
-<head>
+<head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
 	<meta charset="utf-8">
 	<title>Monster Tracks</title>
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/google-class@23207b238c7c587d12da3cac4233366120ea47c0/monster-tracks/Jump_Gamemonetize.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/monster-tracks/Jump_Gamemonetize.js"></script>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/genizy/google-class/monster-tracks/webapp/fancade.css">
 </head>
 
