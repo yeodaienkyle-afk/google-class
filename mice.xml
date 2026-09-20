@@ -2,7 +2,7 @@
 <ModulePrefs title="mc"/>
 <Content type="html">
 <![CDATA[<html>
-<head>
+<head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
 <title>Spin-off of "Eaglercraft Singleplayer Test"</title>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
