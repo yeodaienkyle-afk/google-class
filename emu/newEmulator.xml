@@ -4,7 +4,7 @@
 <![CDATA[
 <!DOCTYPE HTML>
 <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <style>
             body, html {
                 margin: 0;
@@ -39,7 +39,7 @@
             EJS_gameName = "URL Specified Game";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_core = `${new URLSearchParams(window.location.search).get('core')}`;
             EJS_gameUrl = `${new URLSearchParams(window.location.search).get('emu')}`;
             EJS_onGameStart = function(e) {
