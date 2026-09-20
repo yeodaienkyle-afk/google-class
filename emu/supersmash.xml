@@ -2,7 +2,7 @@
 <ModulePrefs title="ssb"/>
 <Content type="html">
 <![CDATA[ <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <style>
             body, html {
                 margin: 0;
@@ -20,7 +20,7 @@
             EJS_gameName = "ssb";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_gameUrl = "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/supersmashbros/supersmashbros.zip";
         </script>
         <script src="https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/loader.js"></script>
