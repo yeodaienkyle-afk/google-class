@@ -969,7 +969,7 @@ Skryba wyposażony w kilka dokumentów powinien załatwić sprawę.</desc>
         <desc2>Wymaga:</desc2>
     </gui>
     <gui id="drawer_name_worker">
-        <header>Kwatery</header>
+        <header><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">Kwatery</header>
     </gui>
     <gui id="drawer_name_component">
         <header>Magazyn</header>
