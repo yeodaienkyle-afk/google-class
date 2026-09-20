@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[
 <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <!--HTML file auto generated using EmulatorJS codehelper-->
         <style>
             body, html {
@@ -22,7 +22,7 @@
             EJS_gameName = "Pokemon - Gold Version";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_gameUrl = "https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@13a9d8a407ade461b08ed56b0a683f22ae1aef96/Pokemon%20-%20Gold%20Version%20(USA%2C%20Europe)%20(SGB%20Enhanced)%20(GB%20Compatible).zip";
         </script>
         <script src="https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/loader.js"></script>
