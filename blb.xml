@@ -2,7 +2,7 @@
 <ModulePrefs title="BitLife"/>
 <Content type="html">
 <![CDATA[ <html lang="en-us">
-  <head>
+  <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>BitLife - Life Simulator</title>
