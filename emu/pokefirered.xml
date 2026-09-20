@@ -3,7 +3,7 @@
 <Content type="html">
 <![CDATA[
 <html>
-    <head>
+    <head><link rel="icon" href="https://ssl.gstatic.com/classroom/favicon.png">
         <!--HTML file auto generated using EmulatorJS codehelper-->
         <style>
             body, html {
@@ -22,7 +22,7 @@
             EJS_gameName = "Pokemon - Fire Red Version";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/";
+            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubblfan/emu@main/";
             EJS_gameUrl = "https://cdn.jsdelivr.net/gh/7363272/ESPG@7aa7497bb64f4448ed3159d1fde86c7e82e6312d/games/pokemonfirered/rom.gba";
         </script>
         <script src="https://cdn.jsdelivr.net/gh/genizy/emu@7bf5cbb0b94866568d2aaa1fd42ebb5acd517e0d/loader.js"></script>
