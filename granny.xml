@@ -2,12 +2,12 @@
 <ModulePrefs title="Granny"/>
 <Content type="html">
 <![CDATA[ <body dir="ltr">
-   <script src="https://cdn.jsdelivr.net/gh/s-v-6-z6/se@main/sdk.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/se@main/sdk.js"></script>
    <div id="unity-container">
       <canvas id="unity-canvas" style="position: absolute; width: 100%; height: 100%; cursor: default;" width="1322" height="926"></canvas>
       <div id="unity-loading-bar" style="display: none;">
          <div id="unity-logo">
-            <img alt="Granny Logo" src="https://cdn.jsdelivr.net/gh/s-v-6-z6/se@main/logo.png">
+            <img alt="Granny Logo" src="https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/se@main/logo.png">
          </div>
          <div id="unity-progress-bar-empty">
             <div id="unity-progress-bar-full" style="width: 100%;"></div>
@@ -71,7 +71,7 @@
           updateBannerVisibility();
       }
       
-      var buildUrl = "https://cdn.jsdelivr.net/gh/s-v-6-z6/se@main/Build";
+      var buildUrl = "https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/se@main/Build";
       var loaderUrl = buildUrl + "/Granny.loader.js";
       
       async function initializeGame() {
@@ -86,7 +86,7 @@
                   dataUrl: dataBlobUrl,
                   frameworkUrl: buildUrl + "/Granny.framework.js",
                   codeUrl: wasmBlobUrl,
-                  streamingAssetsUrl: "https://cdn.jsdelivr.net/gh/s-v-6-z6/se@main/StreamingAssets",
+                  streamingAssetsUrl: "https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/se@main/StreamingAssets",
                   companyName: "Anastasia Kazantseva",
                   productName: "Granny",
                   productVersion: "1.0",
@@ -116,7 +116,7 @@
    </script>
    <script>gadgets.util.runOnLoadHandlers();</script>
    <script>window.google.csi.tickDl();</script>
-   <script src="https://cdn.jsdelivr.net/gh/s-v-6-z6/se@main/Build/Granny.loader.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/se@main/Build/Granny.loader.js"></script>
    <script src="blob:https://hey-opensocial.googleusercontent.com/3f81a9ef-99d0-4fc8-bbe4-ec952388d386></script>
 </body>
 </html> ]]>
