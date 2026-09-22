@@ -8,7 +8,7 @@
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sel-lers/x@main/style.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/x@main/style.css"/>
 
 <style>
         canvas:focus {
@@ -37,7 +37,7 @@
 </div>
 <div id="loading-cover" style="display:none;">
 <div id="unity-loading-bar">
-<div id="unity-logo"><img src="https://cdn.jsdelivr.net/gh/sel-lers/x@main/logo.png"/></div>
+<div id="unity-logo"><img src="https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/x@main/logo.png"/></div>
 <div id="unity-progress-bar-empty" style="display: none;">
 <div id="unity-progress-bar-full"></div>
 </div>
@@ -47,7 +47,7 @@
 
 <script>
         const hideFullScreenButton = "";
-        const buildUrl = "https://cdn.jsdelivr.net/gh/sel-lers/x@main/Build";
+        const buildUrl = "https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/x@main/Build";
         const loaderUrl = buildUrl + "/Web GL.loader.js";
         const config = {
             dataUrl: buildUrl + "/Web GL.data.unityweb",
@@ -86,7 +86,7 @@
 
         }
 
-        loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/sel-lers/x@main/background.jpg') center / cover";
+        loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/yeodaienkyle-afk/x@main/background.jpg') center / cover";
 
         loadingCover.style.display = "";
 
